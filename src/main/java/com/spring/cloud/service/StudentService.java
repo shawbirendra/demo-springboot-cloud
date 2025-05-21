@@ -1,12 +1,10 @@
 package com.spring.cloud.service;
 
 import com.spring.cloud.dto.StudentInput;
-import lombok.Data;
 import org.springframework.stereotype.Service;
 
 import java.util.*;
 
-@Data
 @Service
 public class StudentService {
 
